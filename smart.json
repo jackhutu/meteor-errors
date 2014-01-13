@@ -1,0 +1,10 @@
+{
+"name": "hutu_errors",
+"description": "A pattern to display application errors to the user",
+"homepage": "https://github.com/hutufeia2009/meteor-errors",
+"author": "hutu",
+"version": "0.1.0",
+"git": "https://github.com/hutufeia2009/meteor-errors.git",
+"packages": {
+}
+}
