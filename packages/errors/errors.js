@@ -1,6 +1,4 @@
-/**
- * Created by Administrator on 14-1-13.
- */
+// Local (client-only) collection
 Meteor.errors = new Meteor.Collection(null);
 Meteor.Errors = {
   throw: function(message) {
